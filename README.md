@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <br />
     <img src="https://i.postimg.cc/xnTr6TCb/ResumeAI.png" alt="Project Banner">
@@ -187,4 +187,3 @@ The project was designed to simplify the resume-building process using the power
 
 If you're interested in learning more about this project, contributing, or discussing potential collaboration, feel free to reach out! You can find my contact details in the Contact section of my portfolio.
 
->>>>>>> 7311cc04216a1eb7968d5b00f2d2bb316d01bd7e
